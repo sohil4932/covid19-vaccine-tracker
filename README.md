@@ -5,3 +5,7 @@
 👉🏻 [Project Link](https://www.labnol.org/covid19-vaccine-tracker-210501)
 
 [![Vaccine Tracker for India](./screenshot.png)](https://www.labnol.org/covid19-vaccine-tracker-210501)
+
+*npx clasp login*
+
+*git config --global core.autocrlf false*

@@ -7,6 +7,28 @@ export default function Footer() {
         </div>
         <div className="relative flex justify-center text-sm">
           <span className="px-2 bg-white text-gray-500">
+            Updated by&nbsp;
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://sohlipatel.org"
+              className="text-indigo-700 font-semibold"
+            >
+              Sohil Patel
+            </a>
+            &nbsp;
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://twitter.com/intent/follow?region=follow_link&screen_name=sohil_4932&tw_p=followbutton"
+              className="text-indigo-600 font-semibold"
+            >
+              @sohil_4932
+            </a>
+          </span>
+        </div>
+        <div className="relative flex justify-center text-sm">
+          <span className="px-2 bg-white text-gray-500">
             Developed by&nbsp;
             <a
               target="_blank"
